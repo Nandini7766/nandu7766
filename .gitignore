@@ -1,0 +1,5 @@
+.Classpath
+.projects
+/node_modules/
+*.java
+
